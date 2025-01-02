@@ -1,6 +1,6 @@
 # Verizon Phone Number Validator
 
-![image](https://raw.githubusercontent.com/alexrony21/Verizon-Phone-Number-Validator/refs/heads/main/Verizon_Phone_Number_Checker.png)
+![image]()
 
 ## Features:
 1. **Fast Checking**
