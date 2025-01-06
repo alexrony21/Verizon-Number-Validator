@@ -5,7 +5,7 @@
 ## Features:
 1. **Fast Checking**
 2. **Accurate Result**
-3. **2k CPM**
+3. **20k CPM**
 4. **Auto Proxy**
 
 ## Contact:
